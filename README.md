@@ -1,9 +1,11 @@
 <p align="center">
 <img alt="Programming" src="Header.gif">
 </p>
-<img alt="right" src="right.gif">
+
 <h1 align="center">Hello World 🤗, I'm JESPER IAN BARILA</h1>
 <h3 align="center">A mere student from SPC Iligan City</h3>
+
+<img alt="right" src="right.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yansanity1998&label=Profile%20views&color=0e75b6&style=flat" alt="yansanity1998" /> </p>
 
