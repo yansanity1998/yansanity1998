@@ -1,6 +1,7 @@
 <p align="center">
 <img alt="Programming" src="Header.gif">
 </p>
+<img alt="right" src="right.gif">
 <h1 align="center">Hello World 🤗, I'm JESPER IAN BARILA</h1>
 <h3 align="center">A mere student from SPC Iligan City</h3>
 
