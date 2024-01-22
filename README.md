@@ -5,7 +5,7 @@
 <h1 align="center">Hello World 🤗, I'm JESPER IAN BARILA</h1>
 <h3 align="center">A mere student from SPC Iligan City</h3>
 
-<img align="right" src="right.gif" width=200px>
+<img align="right" src="right.gif" width=400px>
 
 - 🔭 I’m currently studying on **CC 106**
 
