@@ -6,7 +6,7 @@
 <h3 align="center">A mere student from SPC Iligan City</h3>
 
 <img align="right" src="right.gif" width=400px>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yansanity1998&label=Profile%20views&color=0e75b6&style=flat" alt="yansanity1998" /> </p>
 - 🔭 I’m currently studying on **CC 106**
 
 - 🌱 I’m currently learning **PHP,Html,Css,JS,Java**
