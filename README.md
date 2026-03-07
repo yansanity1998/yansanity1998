@@ -82,11 +82,6 @@ const jesper = {
 
 ## 📊 GitHub Stats
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yansanity1998&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2D55&icon_color=FF2D55&text_color=FFFFFF&rank_icon=github" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yansanity1998&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2D55&text_color=FFFFFF&langs_count=8" height="175"/>
-</div> -->
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yansanity1998&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF2D55&ring=FF2D55&fire=FB923C&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" height="175"/>
 </div>
@@ -146,11 +141,11 @@ const jesper = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yansanity1998)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yansanity1998)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yansanity1998.dev)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesper@example.com)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yansanity1998)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jesper.ian.villacorte.barila)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_iantheone_/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@yansanity_23)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF2D55?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yan-portfolio-orpin.vercel.app/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesperianbarila.20210166@gmail.cm)
 
 </div>
 
