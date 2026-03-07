@@ -82,10 +82,10 @@ const jesper = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yansanity1998&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2D55&icon_color=FF2D55&text_color=FFFFFF&rank_icon=github" height="175"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yansanity1998&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2D55&text_color=FFFFFF&langs_count=8" height="175"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yansanity1998&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF2D55&ring=FF2D55&fire=FB923C&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" height="175"/>
