@@ -6,7 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D55,50:C0183A,100:FF6B81&height=180&section=header&text=Jesper%20Ian%20V.%20Barila&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20JavaScript%20%2F%20TypeScript%20%2F%20React&descAlignY=52&descSize=15" width="100%"/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jesperibarila&color=FF2D55&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=yansanity1998&color=FF2D55&style=flat-square&label=Profile+Views" />
   &nbsp;
   <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-FF2D55?style=flat-square&logo=code&logoColor=white" />
   &nbsp;
@@ -83,12 +83,12 @@ const jesper = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jesperibarila&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2D55&icon_color=FF2D55&text_color=FFFFFF&rank_icon=github" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesperibarila&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2D55&text_color=FFFFFF&langs_count=8" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yansanity1998&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2D55&icon_color=FF2D55&text_color=FFFFFF&rank_icon=github" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yansanity1998&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2D55&text_color=FFFFFF&langs_count=8" height="175"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jesperibarila&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF2D55&ring=FF2D55&fire=FB923C&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" height="175"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yansanity1998&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF2D55&ring=FF2D55&fire=FB923C&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" height="175"/>
 </div>
 
 ---
@@ -97,16 +97,16 @@ const jesper = {
 
 <div align="center">
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=jesperibarila&repo=your-project-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2D55&text_color=FFFFFF&icon_color=FF2D55)](https://github.com/jesperibarila/your-project-1)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=jesperibarila&repo=your-project-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2D55&text_color=FFFFFF&icon_color=FF2D55)](https://github.com/jesperibarila/your-project-2)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=yansanity1998&repo=your-project-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2D55&text_color=FFFFFF&icon_color=FF2D55)](https://github.com/yansanity1998/your-project-1)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=yansanity1998&repo=your-project-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2D55&text_color=FFFFFF&icon_color=FF2D55)](https://github.com/yansanity1998/your-project-2)
 
 </div>
 
 | 🌟 Project | 📝 Description | 🛠 Stack | ⭐ Stars |
 |---|---|---|---|
-| [**Project One**](https://github.com/jesperibarila/project1) | A full-stack productivity web app | `React` `TypeScript` `Node.js` | ![Stars](https://img.shields.io/github/stars/jesperibarila/project1?style=flat-square&color=FF2D55) |
-| [**Project Two**](https://github.com/jesperibarila/project2) | E-commerce storefront with cart & auth | `Next.js` `Tailwind` `Supabase` | ![Stars](https://img.shields.io/github/stars/jesperibarila/project2?style=flat-square&color=FF2D55) |
-| [**Project Three**](https://github.com/jesperibarila/project3) | REST API with authentication & roles | `Express` `PostgreSQL` `JWT` | ![Stars](https://img.shields.io/github/stars/jesperibarila/project3?style=flat-square&color=FF2D55) |
+| [**Project One**](https://github.com/yansanity1998/project1) | A full-stack productivity web app | `React` `TypeScript` `Node.js` | ![Stars](https://img.shields.io/github/stars/yansanity1998/project1?style=flat-square&color=FF2D55) |
+| [**Project Two**](https://github.com/yansanity1998/project2) | E-commerce storefront with cart & auth | `Next.js` `Tailwind` `Supabase` | ![Stars](https://img.shields.io/github/stars/yansanity1998/project2?style=flat-square&color=FF2D55) |
+| [**Project Three**](https://github.com/yansanity1998/project3) | REST API with authentication & roles | `Express` `PostgreSQL` `JWT` | ![Stars](https://img.shields.io/github/stars/yansanity1998/project3?style=flat-square&color=FF2D55) |
 
 > 📌 *Replace the repo names above with your actual pinned repositories!*
 
@@ -115,7 +115,7 @@ const jesper = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jesperibarila&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yansanity1998&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
 </div>
 
 ---
@@ -123,7 +123,7 @@ const jesper = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jesperibarila&bg_color=0D1117&color=FF2D55&line=FF2D55&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yansanity1998&bg_color=0D1117&color=FF2D55&line=FF2D55&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -140,11 +140,11 @@ const jesper = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jesperibarila)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jesperibarila)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jesperibarila.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yansanity1998)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yansanity1998)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yansanity1998.dev)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesper@example.com)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/jesperibarila)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/yansanity1998)
 
 </div>
 
