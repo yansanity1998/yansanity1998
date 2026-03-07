@@ -97,18 +97,24 @@ const jesper = {
 
 <div align="center">
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=yansanity1998&repo=your-project-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2D55&text_color=FFFFFF&icon_color=FF2D55)](https://github.com/yansanity1998/your-project-1)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=yansanity1998&repo=your-project-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2D55&text_color=FFFFFF&icon_color=FF2D55)](https://github.com/yansanity1998/your-project-2)
+| 🌐 Project | 📝 Description | 🔗 Live |
+|:---:|:---:|:---:|
+| **Anxiety Application** | A mental wellness web app to help manage anxiety | [![Live Demo](https://img.shields.io/badge/Live%20Demo-anxiety--app-FF2D55?style=for-the-badge&logo=netlify&logoColor=white)](https://anxiety-application.netlify.app/) |
+| **OJT Hub** | An on-the-job training management platform | [![Live Demo](https://img.shields.io/badge/Live%20Demo-ojthub-C0183A?style=for-the-badge&logo=netlify&logoColor=white)](https://ojthub.netlify.app/) |
+| **Yan Portfolio** | My personal developer portfolio showcasing my work | [![Live Demo](https://img.shields.io/badge/Live%20Demo-portfolio-FF6B81?style=for-the-badge&logo=vercel&logoColor=white)](https://yan-portfolio-orpin.vercel.app/) |
+| **RFID Payroll** | An RFID-based payroll management system | [![Live Demo](https://img.shields.io/badge/Live%20Demo-rfid--payroll-8B0000?style=for-the-badge&logo=netlify&logoColor=white)](https://rfid-payroll.netlify.app/) |
+
+<br/>
+
+[![Anxiety App](https://img.shields.io/website?url=https%3A%2F%2Fanxiety-application.netlify.app%2F&label=anxiety-application.netlify.app&style=flat-square&color=FF2D55&logo=netlify&logoColor=white)](https://anxiety-application.netlify.app/)
+&nbsp;&nbsp;
+[![OJT Hub](https://img.shields.io/website?url=https%3A%2F%2Fojthub.netlify.app%2F&label=ojthub.netlify.app&style=flat-square&color=C0183A&logo=netlify&logoColor=white)](https://ojthub.netlify.app/)
+&nbsp;&nbsp;
+[![Yan Portfolio](https://img.shields.io/website?url=https%3A%2F%2Fyan-portfolio-orpin.vercel.app%2F&label=yan-portfolio.vercel.app&style=flat-square&color=FF6B81&logo=vercel&logoColor=white)](https://yan-portfolio-orpin.vercel.app/)
+&nbsp;&nbsp;
+[![RFID Payroll](https://img.shields.io/website?url=https%3A%2F%2Frfid-payroll.netlify.app%2F&label=rfid-payroll.netlify.app&style=flat-square&color=8B0000&logo=netlify&logoColor=white)](https://rfid-payroll.netlify.app/)
 
 </div>
-
-| 🌟 Project | 📝 Description | 🛠 Stack | ⭐ Stars |
-|---|---|---|---|
-| [**Project One**](https://github.com/yansanity1998/project1) | A full-stack productivity web app | `React` `TypeScript` `Node.js` | ![Stars](https://img.shields.io/github/stars/yansanity1998/project1?style=flat-square&color=FF2D55) |
-| [**Project Two**](https://github.com/yansanity1998/project2) | E-commerce storefront with cart & auth | `Next.js` `Tailwind` `Supabase` | ![Stars](https://img.shields.io/github/stars/yansanity1998/project2?style=flat-square&color=FF2D55) |
-| [**Project Three**](https://github.com/yansanity1998/project3) | REST API with authentication & roles | `Express` `PostgreSQL` `JWT` | ![Stars](https://img.shields.io/github/stars/yansanity1998/project3?style=flat-square&color=FF2D55) |
-
-> 📌 *Replace the repo names above with your actual pinned repositories!*
 
 ---
 
