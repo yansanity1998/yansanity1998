@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Dynamic Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF2D55&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Jesper+Ian+%F0%9F%91%8B;Full-Stack+Developer+%7C+JS+Enthusiast;React+%2B+TypeScript+is+my+love+language+%F0%9F%92%99;Turning+ideas+into+products%2C+one+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D55,50:C0183A,100:FF6B81&height=180&section=header&text=Jesper%20Ian%20V.%20Barila&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20JavaScript%20%2F%20TypeScript%20%2F%20React&descAlignY=52&descSize=15" width="100%"/>
@@ -78,6 +77,19 @@ const jesper = {
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+### 🤖 AI-Powered Dev Tools
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-0EA5E9?style=for-the-badge&logo=codeium&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-FF2D55?style=for-the-badge&logo=lightning&logoColor=white)
+
+### 🚢 DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats
@@ -98,16 +110,6 @@ const jesper = {
 | **OJT Hub** | An on-the-job training management platform | [![Live Demo](https://img.shields.io/badge/Live%20Demo-ojthub-C0183A?style=for-the-badge&logo=netlify&logoColor=white)](https://ojthub.netlify.app/) |
 | **Yan Portfolio** | My personal developer portfolio showcasing my work | [![Live Demo](https://img.shields.io/badge/Live%20Demo-portfolio-FF6B81?style=for-the-badge&logo=vercel&logoColor=white)](https://yan-portfolio-orpin.vercel.app/) |
 | **RFID Payroll** | An RFID-based payroll management system | [![Live Demo](https://img.shields.io/badge/Live%20Demo-rfid--payroll-8B0000?style=for-the-badge&logo=netlify&logoColor=white)](https://rfid-payroll.netlify.app/) |
-
-<br/>
-
-[![Anxiety App](https://img.shields.io/website?url=https%3A%2F%2Fanxiety-application.netlify.app%2F&label=anxiety-application.netlify.app&style=flat-square&color=FF2D55&logo=netlify&logoColor=white)](https://anxiety-application.netlify.app/)
-&nbsp;&nbsp;
-[![OJT Hub](https://img.shields.io/website?url=https%3A%2F%2Fojthub.netlify.app%2F&label=ojthub.netlify.app&style=flat-square&color=C0183A&logo=netlify&logoColor=white)](https://ojthub.netlify.app/)
-&nbsp;&nbsp;
-[![Yan Portfolio](https://img.shields.io/website?url=https%3A%2F%2Fyan-portfolio-orpin.vercel.app%2F&label=yan-portfolio.vercel.app&style=flat-square&color=FF6B81&logo=vercel&logoColor=white)](https://yan-portfolio-orpin.vercel.app/)
-&nbsp;&nbsp;
-[![RFID Payroll](https://img.shields.io/website?url=https%3A%2F%2Frfid-payroll.netlify.app%2F&label=rfid-payroll.netlify.app&style=flat-square&color=8B0000&logo=netlify&logoColor=white)](https://rfid-payroll.netlify.app/)
 
 </div>
 
@@ -145,7 +147,7 @@ const jesper = {
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_iantheone_/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@yansanity_23)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF2D55?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yan-portfolio-orpin.vercel.app/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesperianbarila.20210166@gmail.cm)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesperianbarila.202101066@gmail.com)
 
 </div>
 
