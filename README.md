@@ -34,7 +34,7 @@ const jesper = {
 - 🌱 Leveling up in **Next.js**, **tRPC**, and **cloud-native architectures**
 - 👯 Open to collaborating on **open-source JS/TS projects**
 - 💬 Ask me about **React, TypeScript, REST APIs, or state management**
-- 📫 Reach me at **jesper@example.com**
+- 📫 Reach me at **jespeianbarila.202101066@gmail.com**
 - ⚡ Fun fact: I have a tab hoarding problem — 40+ open is completely normal for me 🗂️
 
 ---
