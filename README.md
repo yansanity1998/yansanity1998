@@ -30,7 +30,7 @@ const jesper = {
 ```
 
 - 🔭 Currently building full-stack web apps with **React + TypeScript**
-- 🌱 Leveling up in **Next.js**, **tRPC**, and **cloud-native architectures**
+- 🌱 Leveling up in **Next.js**, and **cloud-native architectures**
 - 👯 Open to collaborating on **open-source JS/TS projects**
 - 💬 Ask me about **React, TypeScript, REST APIs, or state management**
 - 📫 Reach me at **jesperianbarila.202101066@gmail.com**
