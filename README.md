@@ -108,7 +108,7 @@ const jesper = {
 |:---:|:---:|:---:|
 | **Anxiety Application** | A mental wellness web app to help manage anxiety | [![Live Demo](https://img.shields.io/badge/Live%20Demo-anxiety--app-FF2D55?style=for-the-badge&logo=netlify&logoColor=white)](https://anxiety-application.netlify.app/) |
 | **OJTHub** | An on-the-job training management platform | [![Live Demo](https://img.shields.io/badge/Live%20Demo-ojthub-C0183A?style=for-the-badge&logo=netlify&logoColor=white)](https://ojthub.netlify.app/) |
-| **Yan Portfolio** | My personal developer portfolio showcasing my work | [![Live Demo](https://img.shields.io/badge/Live%20Demo-portfolio-FF6B81?style=for-the-badge&logo=vercel&logoColor=white)](https://yan-portfolio-orpin.vercel.app/) |
+| **Yan Portfolio** | My personal developer portfolio showcasing my work | [![Live Demo](https://img.shields.io/badge/Live%20Demo-portfolio-FF6B81?style=for-the-badge&logo=vercel&logoColor=white)](https://jbarila.vercel.app/) |
 | **RFID Payroll** | An RFID-based payroll management system | [![Live Demo](https://img.shields.io/badge/Live%20Demo-rfid--payroll-8B0000?style=for-the-badge&logo=netlify&logoColor=white)](https://rfid-payroll.netlify.app/) |
 
 </div>
