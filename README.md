@@ -1,7 +1,5 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E7D32&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Jesper+Ian+%F0%9F%91%8B;Full-Stack+Developer+%7C+JS+Enthusiast;React+%2B+TypeScript+is+my+love+language+%F0%9F%92%99;Turning+ideas+into+products%2C+one+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B5E20,50:2E7D32,100:66BB6A&height=180&section=header&text=Jesper%20Ian%20V.%20Barila&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20JavaScript%20%2F%20TypeScript%20%2F%20React&descAlignY=52&descSize=15" width="100%"/>
 
 <p align="center">
@@ -29,55 +27,72 @@
 
 ## 🛠️ Skills & Tools
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<table width="100%">
+<tr>
+<td valign="top" width="20%">
 
-### ⚛️ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+**Languages**
 
-### 🔧 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+JavaScript
+TypeScript
+PHP
+Java
+HTML5 / CSS3
 
-### 🗄️ Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+</td>
+<td valign="top" width="20%">
 
-### ⚙️ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+**Frontend**
 
-### 🤖 AI-Powered Dev Tools
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Windsurf](https://img.shields.io/badge/Windsurf-0EA5E9?style=for-the-badge&logo=codeium&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-2E7D32?style=for-the-badge&logo=lightning&logoColor=white)
+React
+Next.js
+Tailwind CSS
+Redux
+React Query
+Framer Motion
 
-### 🚢 DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+</td>
+<td valign="top" width="20%">
+
+**Backend**
+
+Node.js
+Express
+REST API
+GraphQL
+
+</td>
+<td valign="top" width="20%">
+
+**Data & Cloud**
+
+PostgreSQL
+MongoDB
+Firebase
+Supabase
+Vercel
+
+</td>
+<td valign="top" width="20%">
+
+**Tooling**
+
+Git
+Docker
+GitHub Actions
+Nginx · Linux
+AWS · Terraform
+Figma · VS Code
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<sub>**AI-assisted dev:** Cursor · Windsurf · Antigravity</sub>
+
+</div>
 
 ---
 
