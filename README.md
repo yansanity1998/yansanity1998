@@ -1,15 +1,15 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF2D55&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Jesper+Ian+%F0%9F%91%8B;Full-Stack+Developer+%7C+JS+Enthusiast;React+%2B+TypeScript+is+my+love+language+%F0%9F%92%99;Turning+ideas+into+products%2C+one+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E7D32&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Jesper+Ian+%F0%9F%91%8B;Full-Stack+Developer+%7C+JS+Enthusiast;React+%2B+TypeScript+is+my+love+language+%F0%9F%92%99;Turning+ideas+into+products%2C+one+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D55,50:C0183A,100:FF6B81&height=180&section=header&text=Jesper%20Ian%20V.%20Barila&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20JavaScript%20%2F%20TypeScript%20%2F%20React&descAlignY=52&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B5E20,50:2E7D32,100:66BB6A&height=180&section=header&text=Jesper%20Ian%20V.%20Barila&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20JavaScript%20%2F%20TypeScript%20%2F%20React&descAlignY=52&descSize=15" width="100%"/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yansanity1998&color=FF2D55&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=yansanity1998&color=2E7D32&style=flat-square&label=Profile+Views" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-FF2D55?style=flat-square&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-2E7D32?style=flat-square&logo=code&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20To-Collaborate-C0183A?style=flat-square&logo=handshake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20To-Collaborate-1B5E20?style=flat-square&logo=handshake&logoColor=white" />
 </p>
 
 </div>
@@ -17,17 +17,6 @@
 ---
 
 ## 🧑‍💻 About Me
-
-```typescript
-const jesper = {
-  name:         "Jesper Ian V. Barila",
-  role:         "Full-Stack Developer",
-  stack:        ["JavaScript", "TypeScript", "React", "Node.js"],
-  currentFocus: "Building clean, scalable, and user-first web experiences",
-  interests:    ["Open Source", "UI/UX", "Web Performance", "Dev Tooling"],
-  funFact:      "I debug by console.log and I'm not ashamed of it 😄",
-};
-```
 
 - 🔭 Currently building full-stack web apps with **React + TypeScript**
 - 🌱 Leveling up in **Next.js**, and **cloud-native architectures**
@@ -80,7 +69,7 @@ const jesper = {
 ### 🤖 AI-Powered Dev Tools
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/Windsurf-0EA5E9?style=for-the-badge&logo=codeium&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-FF2D55?style=for-the-badge&logo=lightning&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-2E7D32?style=for-the-badge&logo=lightning&logoColor=white)
 
 ### 🚢 DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -95,7 +84,7 @@ const jesper = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yansanity1998&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF2D55&ring=FF2D55&fire=FB923C&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" height="175"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yansanity1998&theme=tokyonight&hide_border=true&background=0D1117&stroke=2E7D32&ring=2E7D32&fire=66BB6A&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" height="175"/>
 </div>
 
 ---
@@ -106,10 +95,10 @@ const jesper = {
 
 | 🌐 Project | 📝 Description | 🔗 Live |
 |:---:|:---:|:---:|
-| **Anxiety Application** | A mental wellness web app to help manage anxiety | [![Live Demo](https://img.shields.io/badge/Live%20Demo-anxiety--app-FF2D55?style=for-the-badge&logo=netlify&logoColor=white)](https://anxiety-application.netlify.app/) |
-| **OJTHub** | An on-the-job training management platform | [![Live Demo](https://img.shields.io/badge/Live%20Demo-ojthub-C0183A?style=for-the-badge&logo=netlify&logoColor=white)](https://ojthub.netlify.app/) |
-| **Yan Portfolio** | My personal developer portfolio showcasing my work | [![Live Demo](https://img.shields.io/badge/Live%20Demo-portfolio-FF6B81?style=for-the-badge&logo=vercel&logoColor=white)](https://jbarila.vercel.app/) |
-| **RFID Payroll** | An RFID-based payroll management system | [![Live Demo](https://img.shields.io/badge/Live%20Demo-rfid--payroll-8B0000?style=for-the-badge&logo=netlify&logoColor=white)](https://rfid-payroll.netlify.app/) |
+| **Anxiety Application** | A mental wellness web app to help manage anxiety | [![Live Demo](https://img.shields.io/badge/Live%20Demo-anxiety--app-2E7D32?style=for-the-badge&logo=netlify&logoColor=white)](https://anxiety-application.netlify.app/) |
+| **OJTHub** | An on-the-job training management platform | [![Live Demo](https://img.shields.io/badge/Live%20Demo-ojthub-1B5E20?style=for-the-badge&logo=netlify&logoColor=white)](https://ojthub.netlify.app/) |
+| **Yan Portfolio** | My personal developer portfolio showcasing my work | [![Live Demo](https://img.shields.io/badge/Live%20Demo-portfolio-66BB6A?style=for-the-badge&logo=vercel&logoColor=white)](https://jbarila.vercel.app/) |
+| **RFID Payroll** | An RFID-based payroll management system | [![Live Demo](https://img.shields.io/badge/Live%20Demo-rfid--payroll-004D40?style=for-the-badge&logo=netlify&logoColor=white)](https://rfid-payroll.netlify.app/) |
 
 </div>
 
@@ -126,7 +115,7 @@ const jesper = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yansanity1998&bg_color=0D1117&color=FF2D55&line=FF2D55&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yansanity1998&bg_color=0D1117&color=2E7D32&line=2E7D32&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -146,7 +135,7 @@ const jesper = {
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jesper.ian.villacorte.barila)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_iantheone_/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@yansanity_23)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF2D55?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yan-portfolio-orpin.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2E7D32?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yan-portfolio-orpin.vercel.app/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesperianbarila.202101066@gmail.com)
 
 </div>
@@ -159,6 +148,6 @@ const jesper = {
 
 ### Thanks for visiting! If you like what you see, let's connect and build something awesome together. 🙌
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B81,50:C0183A,100:FF2D55&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:66BB6A,50:2E7D32,100:1B5E20&height=100&section=footer" width="100%"/>
 
 </div>
