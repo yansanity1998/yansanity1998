@@ -17,23 +17,35 @@ Building production-grade web applications with a focus on performance, maintain
 
 ### About
 
-- 💻 **Engineering focus:** Scalable web applications using React, TypeScript, Next.js, and Node.js.
-- ⚙️ **Architecture & Data:** Designing relational and NoSQL schemas (PostgreSQL, Supabase, MongoDB) paired with type-safe ORMs.
-- 🚀 **Practices:** Clean code principles, modern state management, RESTful API design, and CI/CD pipelines.
-- 📫 Open to software engineering roles and open-source collaboration.
+- **Engineering Focus:** Scalable web applications using React, TypeScript, Next.js, and Node.js.
+- **Architecture & Data:** Designing relational and NoSQL schemas (PostgreSQL, Supabase, MongoDB) paired with type-safe ORMs.
+- **Practices:** Clean code principles, modern state management, RESTful API design, and CI/CD pipelines.
+- Open to software engineering roles, technical opportunities, and open-source collaboration.
 
 ---
 
 ### Core Stack
 
-**Languages & Frameworks**  
-`TypeScript` `JavaScript` `React` `Next.js` `Node.js` `Express.js` `Tailwind CSS` `PHP` `Laravel`
+<p align="left">
+  <b>Languages & Frameworks</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,php,laravel" />
+  </a>
+</p>
 
-**Data & Infrastructure**  
-`PostgreSQL` `Supabase` `MongoDB` `MySQL` `Prisma` `Redis` `Docker` `AWS`
+<p align="left">
+  <b>Data & Cloud Infrastructure</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,mysql,prisma,redis,docker,aws" />
+  </a>
+</p>
 
-**Developer Tooling**  
-`Git` `GitHub Actions` `Vite` `Postman` `Linux` `Nginx`
+<p align="left">
+  <b>Developer Tooling</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,githubactions,vite,postman,linux,nginx" />
+  </a>
+</p>
 
 ---
 
