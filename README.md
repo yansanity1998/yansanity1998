@@ -1,33 +1,32 @@
-# Jesper Ian V. Barila
+<div align="center">
 
-**Full-Stack Developer** specializing in React, TypeScript, and modern web architectures. Focused on building responsive, scalable applications with clean code.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B5E20,50:2E7D32,100:66BB6A&height=180&section=header&text=Jesper%20Ian%20Barila&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20React%20%7C%20TypeScript%20%7C%20Node.js&descAlignY=58&descSize=16" width="100%"/>
 
-[Portfolio](https://jbarila.vercel.app/) • [Email](mailto:jesperianbarila.202101066@gmail.com) • [LinkedIn](https://www.linkedin.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2E7D32?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jbarila.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesperianbarila.202101066@gmail.com)
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yansanity1998&color=2E7D32&style=flat-square&label=Profile+Views" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20Cloud-2E7D32?style=flat-square&logo=code&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Available%20to%20Collaborate-1B5E20?style=flat-square&logo=handshake&logoColor=white" />
+</p>
 
-### Tech Stack
-
-- **Frontend:** TypeScript, JavaScript, React, Next.js, Redux, React Query, Tailwind CSS
-- **Backend:** Node.js, Express.js, PHP, Laravel, REST APIs
-- **Database & Cloud:** PostgreSQL, MySQL, MongoDB, Supabase, Prisma, Docker, AWS
-- **Tools:** Git, GitHub Actions, Vite, Postman, Linux
-
----
-
-### Featured Projects
-
-| Project | Tech / Role | Demo |
-| :--- | :--- | :--- |
-| **Anxiety App** | React, TypeScript, Tailwind | [Live Site](https://anxiety-application.netlify.app/) |
-| **OJTHub** | Full-Stack Training Management | [Live Site](https://ojthub.netlify.app/) |
-| **RFID Payroll** | Automated Payroll System | [Live Site](https://rfid-payroll.netlify.app/) |
-| **Developer Portfolio** | Next.js, Modern UI | [Live Site](https://jbarila.vercel.app/) |
+</div>
 
 ---
 
-### GitHub Overview
+### ✦ About Me
+
+- 🔭 Crafting polished web experiences with **React**, **TypeScript**, and **Tailwind CSS**
+- ⚡ Architecting scalable backends and APIs using **Node.js**, **Express**, **Next.js**, and **PostgreSQL**
+- ☁️ Exploring cloud orchestration, microservices, and modern DevOps workflows
+- 🗂️ *Fun fact:* 40+ browser tabs open at any given moment is my standard operating environment
+
+---
+
+### ✦ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yansanity1998&theme=tokyonight&hide_border=true&background=00000000&stroke=2E7D32&ring=2E7D32&fire=66BB6A" height="150" alt="Streak Stats"/>
-</div>
