@@ -1,7 +1,7 @@
 <div align="center">
 
 # Jesper Ian V. Barila
-### Full-Stack Software Engineer
+### Full-Stack Developer
 
 Building production-grade web applications with a focus on performance, maintainability, and user experience.
 
